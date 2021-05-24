@@ -1,0 +1,39 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "o que eu faço",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "name": "whatIdo",
+          "slots": [],
+          "samples": [
+            "O que devo fazer hoje",
+            "O que você manda",
+            "O que eu faço hoje",
+            "o que devo fazer",
+            "que que eu faço",
+            "o que eu faço"
+          ]
+        }
+      ],
+      "types": []
+    }
+  },
+  "version": "2"
+}

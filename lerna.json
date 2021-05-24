@@ -1,0 +1,12 @@
+{
+  "version": "2.10.2",
+  "packages": [],
+  "command": {
+    "bootstrap": {
+      "npmClientArgs": [
+        "--no-package-lock"
+      ],
+      "ci": false
+    }
+  }
+}

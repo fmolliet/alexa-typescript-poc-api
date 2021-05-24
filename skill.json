@@ -1,0 +1,46 @@
+{
+  "manifest": {
+    "apis": {
+      "custom": {
+        "endpoint": {
+          "uri": ""
+        },
+        "interfaces": [],
+        "regions": {
+          "NA": {
+            "endpoint": {
+              "uri": ""
+            }
+          },
+          "EU": {
+            "endpoint": {
+              "uri": ""
+            }
+          },
+          "FE": {
+            "endpoint": {
+              "uri": ""
+            }
+          }
+        }
+      }
+    },
+    "manifestVersion": "1.0",
+    "publishingInformation": {
+      "category": "KNOWLEDGE_AND_TRIVIA",
+      "locales": {
+        "pt-BR": {
+          "description": "Pergunte para a alexa te dar algo para fazer.",
+          "examplePhrases": [
+            "Alexa abrir o que eu faço"
+          ],
+          "keywords": [
+            "todo"
+          ],
+          "name": "O que eu faço?",
+          "summary": "Receba algo para fazer espaço."
+        }
+      }
+    }
+  }
+}
